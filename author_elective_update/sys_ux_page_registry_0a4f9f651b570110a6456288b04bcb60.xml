@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>ce4f9f651b570110a6456288b04bcb5c</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>needit-experience</path>
+        <root_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-06 17:13:33</sys_created_on>
+        <sys_id>0a4f9f651b570110a6456288b04bcb60</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Experience</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_page_registry_0a4f9f651b570110a6456288b04bcb60</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-06 17:13:33</sys_updated_on>
+        <title>NeedIt Experience</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>d4207f6ddb3b6010431011f84896194f</instance_id>
+        <instance_name>dev112664</instance_name>
+        <name>sys_ux_page_registry_0a4f9f651b570110a6456288b04bcb60</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>ce4f9f651b570110a6456288b04bcb5c</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>needit-experience</path><root_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-06 17:13:33</sys_created_on><sys_id>0a4f9f651b570110a6456288b04bcb60</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt Experience</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_page_registry_0a4f9f651b570110a6456288b04bcb60</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-06 17:13:33</sys_updated_on><title>NeedIt Experience</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>68445290</payload_hash>
+        <record_name>NeedIt Experience</record_name>
+        <reverted_from/>
+        <source>6cadd3e11b570110a6456288b04bcba9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-06 17:13:33</sys_created_on>
+        <sys_id>c24f9f651b570110a6456288b04bcb63</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1809a5cc8e50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-06 17:13:33</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>0e4f9f652c570110bbe23242376f7762</update_guid>
+        <update_guid_history>0e4f9f652c570110bbe23242376f7762:68445290</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-09 19:53:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>0a27eb7629bb4c8a80739d2952e96bc4</sys_id>
+        <sys_metadata>0a4f9f651b570110a6456288b04bcb60</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Experience</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_0a4f9f651b570110a6456288b04bcb60</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_0a4f9f651b570110a6456288b04bcb60">c24f9f651b570110a6456288b04bcb63</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-09 19:53:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
